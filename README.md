@@ -34,13 +34,6 @@ BCH: qq4ptclkzej5eza6a50et5ggc58hxsq5aylqut2npk
 
 [Public instances](https://github.com/iv-org/invidious/wiki/Invidious-Instances) are to be found in this list.
 
-### Official Instances
-
-- [invidio.us](https://invidio.us) 🇺🇸  
-  Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=invidio.us)
-- [kgg2m7yk5aybusll.onion](http://kgg2m7yk5aybusll.onion)
-- [axqzx4s6s54s32yentfqojs3x5i7faxza6xo3ehd4bzzsg2ii4fv2iid.onion](http://axqzx4s6s54s32yentfqojs3x5i7faxza6xo3ehd4bzzsg2ii4fv2iid.onion)
-
 ## Screenshots
 
 | Player                                                                                                                  | Preferences                                                                                                             | Subscriptions                                                                                                               |
